@@ -1,11 +1,16 @@
 {
   "name": "dockpress",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "bin": {
     "dockpress": "./bin/cli.js"
   },
-  "keywords": ["express", "docker", "security", "cli"],
+  "keywords": [
+    "express",
+    "docker",
+    "security",
+    "cli"
+  ],
   "author": "Faisal Han",
   "license": "MIT",
   "dependencies": {
