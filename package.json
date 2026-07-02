@@ -5,9 +5,9 @@
   "bin": {
     "dockpress": "./bin/cli.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["express", "docker", "security", "cli"],
+  "author": "Faisal Han",
+  "license": "MIT",
   "dependencies": {
     "commander": "^15.0.0",
     "fs-extra": "^11.3.6"
